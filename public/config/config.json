@@ -1,0 +1,23 @@
+{
+  "CONTRACT_ADDRESS": "0xCBFfe8de09CCd202945cA72BedA770Bd610A4Fc7",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xcbffe8de09ccd202945ca72beda770bd610a4fc7#writeContract",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Goblin Ladies",
+  "SYMBOL": "BOOB",
+  "MAX_SUPPLY": 500,
+  "FREE_SUPPLY": 10,
+  "DISPLAY_COST": 0.005,
+  "GAS_LIMIT": 145000,
+  "MAX_PER_TX": 10,
+  "MAX_PER_TX_FREE": 5,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/finaltest-tlkot4bhka",
+  "Telegram": "https://",
+  "Discord": "https://",
+  "Twitter": "https://",
+  "SHOW_BACKGROUND": true
+}
